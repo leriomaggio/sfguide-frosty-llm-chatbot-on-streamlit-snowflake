@@ -5,4 +5,4 @@ dependencies:
     - python=3.10
     - openai[version='<1.0.0']
     - snowflake-snowpark-python=1.10
-    - streamlit=1.24
+    - conda-forge::streamlit=1.28
